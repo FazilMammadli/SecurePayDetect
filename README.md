@@ -1,6 +1,6 @@
 # 🛡️ Credit Card Fraud Detection Using Machine Learning 💳  
 
-![Fraud Detection](https://miro.medium.com/v2/resize:fit:1200/1*5jG9imnH38A6Szj8HZb_Uw.png)  
+![Fraud Detection](https://maxaix.com/blog/wp-content/uploads/2024/01/machine-learning-to-detect-fraud.jpg)  
 
 ## 🔍 Abstract
 
